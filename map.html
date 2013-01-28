@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+        <script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
+        <style type="text/css">
+            html, body, #map{
+                width: 99.5%;
+                height: 100%;
+                padding: 25;}
+            .busStops, .busStops svg {
+                position: absolute;
+            }
+            
+            .busStops svg {
+                width:50px;
+                height:50px;
+                padding-right: 100px;
+                font: 10px sans-serif;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div id="map"></div>
+        <script type="text/javascript">
+            var map = new google.maps.Map(d3.select("#map").node(), {
+                                zoom:13,
+                                center: new google.maps.LatLng(38.5450, -121.7394),//lat and long of center of Davis
+                                mapTypeId: google.maps.MapTypeId.TERRAIN });
+            
+//Read in stop information
+            d3.csv("routes.csv", function(data){
+                   data.forEach(function(d){
+                        d.stopLat = +d.stopLat;
+                        d.stopLon = +d.stopLon;
+                                
+                        //draw markers
+                        var marker = new google.maps.Marker({
+                                animation: google.maps.Animation.DROP,
+                                icon: { fillColor : "#8B475D",
+                                        fillOpacity: 1,
+                                        path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
+                                        strokeColor: "gray",
+                                        scale: 2,
+                                        strokeWeight: 1,
+                                        strokeOpacity: 0.8},
+                                position: new google.maps.LatLng(d.stopLat, d.stopLon),
+                                map:map,
+                                clickable:true,
+                                cursor: "pointer",
+                                title: d.stopTitle});
+                        google.maps.event.addListener(marker, 'click', function(){});
+                        google.maps.event.addListener(marker, 'mouseover', function(){marker.setAnimation(google.maps.Animation.BOUNCE);});
+                        google.maps.event.addListener(marker, 'mouseout', function(){marker.setAnimation(null);});
+
+                    });
+            });
+        </script>
+    </body>
+</html>

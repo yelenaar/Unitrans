@@ -1,0 +1,30 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10px;
+    fill: gray;
+}
+
+h1{
+    font-family: 'Bevan', serif;
+    font-size: 3.0em;
+    fill: gray;
+}
+.axis path,
+.axis line{
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+            
+.x.axis path{
+    display: none;
+}
+
+.bCount, .dCount{
+    fill: red;
+}
+
+.bdot, .ddot{
+    fill: none;
+    stroke: red;
+}

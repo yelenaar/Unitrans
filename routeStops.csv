@@ -1,0 +1,474 @@
+stopTitle,route
+14th St & B St (EB),Q
+14th St & B St (WB),P
+14th St & B St (WB),T
+14th St & Davis HS (WB),P
+14th St & Davis HS (WB),S
+14th St & Davis HS (WB),T
+14th St & F St (WB),P
+14th St & Oak St (EB),Q
+14th St & Oak St (WB),F
+14th St & Oak St (WB),P
+1st St & C St (EB),M
+1st St & C St (EB),W
+1st St & D St (WB),M
+1st St & D St (WB),W
+2nd St & B St (EB),A
+2nd St & B St (EB),O
+2nd St & E St (EB),A
+2nd St & E St (EB),O
+2nd St & E St (WB),A
+2nd St. & Target Drive (WB),O
+3rd St & C St (EB),E
+3rd St & C St (WB),E
+3rd St & C St (WB),O
+3rd St & E St (EB),E
+3rd St & E St (WB),E
+3rd St & E St (WB),O
+3rd St & K St (EB),A
+3rd St & K St (EB),O
+3rd St & K St (WB),A
+3rd St & K St (WB),O
+5th St & Alhambra Dr (SB),A
+5th St & Arroyo Ave (EB),A
+5th St & Arroyo Ave (EB),O
+5th St & Cantrill  (EB),A
+5th St & Cantrill  (EB),O
+5th St & Cantrill (WB),A
+5th St & Cantrill (WB),O
+5th St & D St (EB),P
+5th St & D St (WB),Q
+5th St & Davis PW Corp Yard (WB),A
+5th St & Davis PW Corp Yard (WB),Q
+5th St & G St (EB),P
+5th St & I St (WB),Q
+5th St & Pelz Bike Path Tunnel (WB),A
+5th St & Pena Dr (EB),A
+5th St & Pena Dr (EB),O
+5th St & Pole Line Rd (EB),A
+5th St & Pole Line Rd (EB),O
+5th St & Pole Line Rd (EB),P
+5th St & Pole Line Rd (WB),A
+5th St & Pole Line Rd (WB),O
+5th St & Pole Line Rd (WB),Q
+5th St & San Rafael St (WB),A
+5th St & San Rafael St (WB),O
+5th St & San Sebastian St (WB),A
+5th St & Spafford St (EB),A
+5th St & Spafford St (EB),O
+8th St & Chestnut Ln (EB),L
+8th St & Chestnut Ln (WB),L
+8th St & D St (EB),L
+8th St & D St (WB),L
+8th St & G St (EB),L
+8th St & G St (WB),E
+8th St & G St (WB),L
+8th St & J St (EB),L
+8th St & J St (WB),L
+8th St & L St (EB),L
+8th St & L St (WB),L
+8th St & Sycamore Ln (WB),C
+A St & Hutchison (SB),A
+A St & Hutchison (SB),L
+A St & Hutchison (SB),W
+Adams St & 720 Adams St (NB),K
+Alhambra & 5th/Verona (SB),T
+Alhambra Dr & 5th St (EB),A
+Alhambra Dr & 5th St (EB),O
+Alhambra Dr & 5th St (EB),T
+Alhambra Dr & 5th St (WB),T
+Alhambra Dr & Arroyo Ave (EB),A
+Alhambra Dr & Arroyo Ave (EB),O
+Alhambra Dr & Arroyo Ave (EB),T
+Alhambra Dr & Caceres Ct (WB),A
+Alhambra Dr & Caceres Ct (WB),T
+Alhambra Dr & Loyola Dr (EB),T
+Alhambra Dr & Loyola Dr (WB),T
+Alhambra Dr & Mace Blvd (EB),A
+Alhambra Dr & Mace Blvd (EB),O
+Alhambra Dr & Mace Blvd (EB),T
+Alhambra Dr & Mace Blvd (WB),A
+Alhambra Dr & Mace Blvd (WB),T
+Almond Ln & Deodara St (WB),S
+Almond Ln & Deodara St (WB),T
+Almond Ln & Meadowbrook Dr (EB),T
+Almond Ln & Meadowbrook Dr (WB),S
+Almond Ln & Meadowbrook Dr (WB),T
+Alvarado Ave & Anderson (EB),F
+Alvarado Ave & Anderson (EB),G
+Alvarado Ave & Anderson (EB),J
+Alvarado Ave & Anderson (WB),G
+Alvarado Ave & Anderson (WB),J
+Alvarado Ave & Del Rey Ct (EB),F
+Alvarado Ave & Sycamore (EB),G
+Alvarado Ave & Sycamore (EB),J
+Alvarado Ave & Sycamore (WB),G
+Alvarado Ave & Sycamore (WB),J
+Anderson Rd & Alvarado Ave (SB),F
+Anderson Rd & Amherst Dr (NB),G
+Anderson Rd & Amherst Dr (NB),J
+Anderson Rd & Amherst Dr (SB),G
+Anderson Rd & Amherst Dr (SB),J
+Anderson Rd & Hanover Dr (NB),F
+Anderson Rd & Hanover Dr (NB),G
+Anderson Rd & Hanover Dr (NB),J
+Anderson Rd & Hanover Dr (NB),P
+Anderson Rd & Hanover Dr (SB),G
+Anderson Rd & Hanover Dr (SB),J
+Anderson Rd & Hanover Dr (SB),Q
+Anderson Rd & Russell Blvd (NB),C
+Anderson Rd & Russell Blvd (NB),G
+Anderson Rd & Russell Blvd (NB),J
+Anderson Rd & Russell Blvd (NB),O
+Anderson Rd & Russell Blvd (SB),G
+Anderson Rd & Russell Blvd (SB),J
+Anderson Rd & Valencia Ave (SB),F
+Anderson Rd & Villanova Dr (NB),F
+Anderson Rd & Villanova Dr (NB),G
+Anderson Rd & Villanova Dr (NB),J
+Anderson Rd & Villanova Dr (NB),P
+Anderson Rd & Villanova Dr (SB),G
+Anderson Rd & Villanova Dr (SB),J
+Arlington Blvd & Bucklebury Rd (NB),Q
+Arlington Blvd & Bucklebury Rd (SB),D
+Arlington Blvd & Bucklebury Rd (SB),K
+Arlington Blvd & Bucklebury Rd (SB),P
+Arlington Blvd & Cabot St (NB),Q
+Arlington Blvd & Cabot St (SB),D
+Arlington Blvd & Cabot St (SB),K
+Arlington Blvd & Cabot St (SB),P
+Arlington Blvd & Calaveras Ave (NB),Q
+Arlington Blvd & Lake Blvd (NB),Q
+Arlington Blvd & Lake Blvd (SB),D
+Arlington Blvd & Lake Blvd (SB),K
+Arlington Blvd & Lake Blvd (SB),P
+Arlington Blvd & Shasta Dr (NB),Q
+Arlington Blvd & Shasta Dr (SB),D
+Arlington Blvd & Shasta Dr (SB),K
+Arlington Blvd & Shasta Dr (SB),P
+Arlington Blvd & Westernesse Rd (SB),D
+Arlington Blvd & Westernesse Rd (SB),K
+Arlington Blvd & Westernesse Rd (SB),P
+Arthur St & Alameda Ave (SB),K
+Arthur St & North Adams St (SB),K
+B St & 4th St  (SB),E
+B St & 4th St  (SB),L
+B St & 4th St  (SB),M
+B St & 4th St (NB),E
+B St & 4th St (NB),L
+B St & 4th St (NB),M
+B St & 4th St (NB),O
+B St & 5th St (NB),L
+B St & 7th St (NB),L
+B St & 7th St (SB),L
+C St & 1st St (SB),A
+Catalina Dr & Alvarado Ave (NB),F
+Catalina Dr & Cabrillo Ave (NB),F
+Catalina Dr & Corona Dr (WB),F
+Catalina Dr & Grande Ave (NB),F
+Chiles Rd & Mace Blvd (EB),A
+Chiles Rd & Mace Blvd (EB),S
+Chiles Rd & Mace Blvd (EB),T
+Covell Blvd & Alhambra Dr (EB),Q
+Covell Blvd & Denali Dr (EB),Q
+Covell Blvd & J St (EB),Q
+Covell Blvd & J St (EB),T
+Covell Blvd & J St (WB),P
+Covell Blvd & J St (WB),T
+Covell Blvd & John Jones Rd (WB),P
+Covell Blvd & Mace Blvd (EB),Q
+Covell Blvd & Mace Blvd (EB),S
+Covell Blvd & Pole Line Rd (EB),Q
+Covell Blvd & Pole Line Rd (EB),T
+Covell Blvd & Pole Line Rd (WB),P
+Covell Blvd & Shasta Dr (EB),Q
+Covell Blvd & Shasta Dr (WB),P
+Covell Blvd & Sycamore Ln (EB),Q
+Covell Blvd & Sycamore Ln (WB),P
+Covell Blvd & West Area Bike Path (EB),Q
+Covell Blvd & Wright Blvd (EB),Q
+Covell Blvd & Wright Blvd (WB),P
+Cowell Blvd & Drew Ave (EB),W
+Cowell Blvd & Drew Ave (WB),M
+Cowell Blvd & Drew Ave (WB),S
+Cowell Blvd & Drew Ave (WB),W
+Cowell Blvd & Drummond Ave (EB),P
+Cowell Blvd & El Cemonte Ave (EB),T
+Cowell Blvd & El Cemonte Ave (WB),A
+Cowell Blvd & El Cemonte Ave (WB),S
+Cowell Blvd & El Cemonte Ave (WB),T
+Cowell Blvd & Ensenada Dr (EB),P
+Cowell Blvd & Ensenada Dr (WB),Q
+Cowell Blvd & Halsey Cir (WB),M
+Cowell Blvd & Halsey Cir (WB),W
+Cowell Blvd & La Vida (EB),P
+Cowell Blvd & La Vida Way (WB),Q
+Cowell Blvd & Mace Blvd (WB),A
+Cowell Blvd & Mace Blvd (WB),S
+Cowell Blvd & Mace Blvd (WB),T
+Cowell Blvd & Ohlone St (EB),P
+Cowell Blvd & Ohlone St (WB),Q
+Cowell Blvd & Research Park S Dr (EB),M
+Cowell Blvd & Research Park S Dr (EB),T
+Cowell Blvd & Research Park S Dr (EB),W
+Cowell Blvd & Research Park S Dr (WB),M
+Cowell Blvd & Research Park S Dr (WB),S
+Cowell Blvd & Research Park S Dr (WB),T
+Cowell Blvd & Research Park S Dr (WB),W
+Cowell Blvd & Schmeiser Ave (EB),T
+Cowell Blvd & Schmeiser Ave (WB),S
+Cowell Blvd & Schmeiser Ave (WB),T
+Cowell Blvd & Sunrise (WB),Q
+Cowell Blvd & Sunrise Ct (EB),P
+Cowell Blvd & Valdora St (EB),T
+Cowell Blvd & Valdora St (EB),W
+Cowell Blvd & Valdora St (WB),M
+Cowell Blvd & Valdora St (WB),S
+Cowell Blvd & Valdora St (WB),T
+Cowell Blvd & Valdora St (WB),W
+Dairy Road & Tercero (NB),O
+Danbury St & Drummond Ave (NB),S
+Danbury St & Drummond Ave (NB),T
+Danbury St & Drummond Ave (SB),T
+Danbury St & Lillard Dr (NB),S
+Danbury St & Lillard Dr (NB),T
+Drake Dr & Drake Dr  Apts (WB),B
+Drew & Research Park Drive (NB),M
+Drew Ave & Cowell Blvd (NB),M
+Drexel Dr & Hemlock Ln (EB),S
+Drummond & Albany (NB),W
+Drummond Ave & Cowell (SB),Q
+Drummond Ave & Lillard Dr (SB),Q
+East 8th Street & Pole Line Road (WB),L
+El Cemonte Ave & Glide Dr (SB),A
+F St & 12th St (NB),E
+F St & 14th St (NB),E
+F St & 14th St (NB),Q
+F St & 4th St  (NB),E
+F St & 4th St  (SB),E
+F St & 5th Street  (NB),E
+F St & 8th St  (SB),E
+F St & 8th St (NB),E
+F St & Covell Blvd (NB),E
+F St & Covell Blvd (NB),Q
+F St & Covell Blvd (SB),P
+F St & Covell Blvd (SB),T
+Glide Dr & El Cemonte Ave (EB),S
+Glide Dr & El Cemonte Ave (EB),T
+Glide Dr & Schmeiser Ave (EB),S
+Glide Dr & Schmeiser Ave (EB),T
+Glide Dr & Schmeiser Ave (WB),T
+H St & Amtrak Station (NB),A
+H St & Amtrak Station (NB),O
+H St Alley & 2nd St (SB),A
+Hanover Dr & Anderson Rd (EB),F
+Hanover Dr & Scripps (NB),F
+Health Sciences Dist Lot 56 &  (SB),V
+Humboldt Ave & Arlington Blvd (EB),K
+Humboldt Ave & Arthur St (EB),K
+Humboldt Ave & Imperial  (EB),K
+Hutchison & California (WB),C
+Hutchison & California (WB),D
+Hutchison & California (WB),J
+Hutchison & California (WB),L
+Hutchison & California (WB),V
+Hutchison & California (WB),W
+Hutchison & Sage (NB),O
+Hutchison & Sage (NB),V
+Hutchison & Sage (SB),O
+Hutchison & Sage (SB),V
+Hutchison & Shields Library (WB),A
+Hutchison & Shields Library (WB),L
+Hutchison & Shields Library (WB),W
+Hutchison Dr & A St (EB),A
+Hutchison Dr & A St (EB),L
+Hutchison Dr & A St (EB),O
+Hutchison Dr & A St (EB),W
+Hutchison Dr & Art Building (EB),A
+Hutchison Dr & Art Building (EB),L
+Hutchison Dr & Art Building (EB),O
+Hutchison Dr & Art Building (EB),W
+Hutchison Dr & Bioletti Way (EB),C
+Hutchison Dr & Bioletti Way (EB),D
+Hutchison Dr & Bioletti Way (EB),J
+Hutchison Dr & Bioletti Way (EB),O
+Hutchison Dr & Bioletti Way (EB),V
+Hutchison Dr & Ext Center (WB),D
+Hutchison Dr & Ext Center (WB),V
+Hutchison Dr & Health Sci Dr (WB),D
+Hutchison Dr & Health Sci Dr (WB),V
+Hutchison Dr & Health Sci Drive (EB),D
+Hutchison Dr & Health Sci Drive (EB),O
+Hutchison Dr & Health Sci Drive (EB),V
+J St & 8th St (SB),E
+J St & Alice St (SB),E
+J St & Drexel Dr (SB),E
+J St & Menlo Dr (SB),E
+L St & 425 (SB),A
+L St & 425 (SB),O
+L St & 4th St (NB),A
+L St & 4th St (NB),O
+La Rue Rd & Garrod Dr (EB),O
+La Rue Rd & Hutchison (SB),O
+La Rue Rd & Orchard (NB),C
+La Rue Rd & Orchard (NB),D
+La Rue Rd & Orchard (NB),J
+La Rue Rd & Orchard (SB),C
+La Rue Rd & Orchard (SB),D
+La Rue Rd & Orchard (SB),J
+Lake Blvd & 1050 (NB),D
+Lake Blvd & 1050 (NB),K
+Lake Blvd & Covell Blvd (NB),Q
+Lake Blvd & Covell Blvd (SB),P
+Lake Blvd & Oyster Bay (SB),P
+Lake Blvd & Portage Bay (NB),D
+Lake Blvd & Portage Bay (NB),K
+Lake Blvd & Salem Ave (NB),D
+Lake Blvd & Salem Ave (NB),K
+Lake Blvd & Wood Circle (NB),Q
+Lillard & Drummond (EB),W
+Lillard Dr & Cowell Blvd (EB),P
+Lillard Dr & Cowell Blvd (EB),W
+Lillard Dr & Evans Ct (EB),P
+Lillard Dr & Evans Ct (EB),W
+Lillard Dr & Evans Ct (WB),Q
+Lillard Dr & Evans Ct (WB),S
+Lillard Dr & Evans Ct (WB),T
+Lillard Dr & Farragut Cir (WB),Q
+Lillard Dr & Farragut Cir (WB),S
+Lillard Dr & Farragut Cir (WB),T
+Loyola Dr & Nutmeg Ln (EB),T
+Loyola Dr & Nutmeg Ln (WB),L
+Loyola Dr & Nutmeg Ln (WB),T
+Loyola Dr & Regis Dr (WB),L
+Loyola Dr & Regis Dr (WB),T
+Loyola Dr & Whittier Dr (WB),L
+Mace Blvd & 2nd St (NB),A
+Mace Blvd & 2nd St (NB),P
+Mace Blvd & 2nd St (NB),T
+Mace Blvd & 2nd St (SB),A
+Mace Blvd & 2nd St (SB),O
+Mace Blvd & 2nd St (SB),Q
+Mace Blvd & 2nd St (SB),S
+Mace Blvd & 2nd St (SB),T
+Mace Blvd & Chiles Rd (SB),Q
+Mace Blvd & Cowell Blvd (NB),A
+Mace Blvd & Cowell Blvd (NB),P
+Mace Blvd & El Macero Dr (NB),T
+Mace Blvd & El Macero Dr (SB),T
+Mace Blvd & S El Macero Dr (NB),T
+Mace Blvd & S El Macero Dr (SB),S
+Mace Blvd & S El Macero Dr (SB),T
+Memorial Union (B Line) & Howard Way (NB),B
+Memorial Union (E Line) & Howard Way (NB),E
+Memorial Union (F Line) & Howard Way (NB),F
+Memorial Union (G Line) & Howard Way (NB),G
+Memorial Union (K Line) & Howard Way (SB),K
+Memorial Union (M Line) & Howard Way (SB),M
+Memorial Union (P Line) & Howard Way (NB),P
+Memorial Union (Q Line) & Howard Way (NB),Q
+Memorial Union Terminal Arrival & Howard Way (NB),B
+Memorial Union Terminal Arrival & Howard Way (NB),E
+Memorial Union Terminal Arrival & Howard Way (NB),F
+Memorial Union Terminal Arrival & Howard Way (NB),G
+Memorial Union Terminal Arrival & Howard Way (NB),K
+Memorial Union Terminal Arrival & Howard Way (NB),M
+Memorial Union Terminal Arrival & Howard Way (NB),P
+Memorial Union Terminal Arrival & Howard Way (NB),Q
+Monarch Ln & Campbell (SB),L
+Moore Blvd & Pole Line Rd (EB),L
+Moore Blvd & Raphael (EB),L
+Moore Blvd & Rockwell (EB),L
+Moore Blvd & Wright Blvd (EB),L
+North Adams & Arthur (WB),K
+North Sycamore Loop &  (NB),G
+North Sycamore Loop &  (NB),J
+Oak Ave & 14th St (SB),F
+Oak Ave & 8th St (NB),F
+Oak Ave & 8th St (SB),F
+Oak Ave & Antioch Dr (NB),F
+Oak Ave & Antioch Dr (SB),F
+Oak Ave & Russell Blvd (NB),F
+Oak Ave & Russell Blvd (SB),F
+Oak Ave & Scripps  (SB),F
+Pena  & 2nd St. (NB),O
+Pole Line & Donner (NB),L
+Pole Line & Wahl Way (SB),L
+Pole Line Rd & 8th St (NB),L
+Pole Line Rd & Claremont Dr (NB),L
+Pole Line Rd & Cowell Blvd (NB),Q
+Pole Line Rd & Cowell Blvd (SB),P
+Pole Line Rd & Loyola Dr (NB),L
+Pole Line Rd & Picasso Ave (NB),L
+Radcliffe Dr & Apple Ln (NB),B
+Richards Blvd & Olive Dr (NB),M
+Richards Blvd & Olive Dr (NB),S
+Richards Blvd & Olive Dr (NB),W
+Richards Blvd & Olive Dr (SB),M
+Richards Blvd & Olive Dr (SB),W
+Rosario St & Almond Ln (NB),S
+Rosario St & Almond Ln (NB),T
+Rosario St & Montgomery Ave (NB),S
+Russell Blvd & A St (WB),M
+Russell Blvd & A St (WB),O
+Russell Blvd & A St (WB),Q
+Russell Blvd & Arlington Farms (WB),D
+Russell Blvd & Arlington Farms (WB),K
+Russell Blvd & Arthur St (WB),D
+Russell Blvd & Arthur St (WB),K
+Russell Blvd & Arthur St (WB),Q
+Russell Blvd & Sycamore Ln (EB),D
+Russell Blvd & Sycamore Ln (EB),K
+Russell Blvd & Sycamore Ln (EB),P
+Russell Blvd & Sycamore Ln (WB),D
+Russell Blvd & Sycamore Ln (WB),K
+Russell Blvd & Sycamore Ln (WB),O
+Russell Blvd & Sycamore Ln (WB),Q
+Silo Terminal & Center Island (EB),C
+Silo Terminal & Center Island (EB),V
+Silo Terminal & Center Island (EB),W
+Silo Terminal & North Boarding Area (WB),A
+Silo Terminal & North Boarding Area (WB),L
+Silo Terminal & North Boarding Area (WB),O
+Sycamore & 8th (SB),B
+Sycamore & 8th (SB),O
+Sycamore Ln & 8th St (NB),B
+Sycamore Ln & Alvarado (SB),G
+Sycamore Ln & Alvarado (SB),J
+Sycamore Ln & Antelope (NB),G
+Sycamore Ln & Antelope (NB),J
+Sycamore Ln & Antelope (SB),G
+Sycamore Ln & Antelope (SB),J
+Sycamore Ln & Bucknell Dr (NB),B
+Sycamore Ln & Chaparral Apts (NB),G
+Sycamore Ln & Chaparral Apts (NB),J
+Sycamore Ln & Chaparral Apts (SB),G
+Sycamore Ln & Chaparral Apts (SB),J
+Sycamore Ln & Cornell Dr (NB),B
+Sycamore Ln & Cornell Dr (SB),B
+Sycamore Ln & Drake Dr (SB),B
+Sycamore Ln & Notre Dame Dr (SB),B
+Sycamore Ln & Pepperwood Apts (NB),G
+Sycamore Ln & Pepperwood Apts (NB),J
+Sycamore Ln & Radcliffe Dr (NB),B
+Sycamore Ln & University Mall (NB),B
+Sycamore Ln & Villanova Dr (NB),B
+Sycamore Ln & Villanova Dr (SB),B
+Sycamore Ln & Wake Forest Dr (SB),B
+Sycamore Ln & Wake Forest Dr (SB),C
+Sycamore Ln & Wake Forest Dr (SB),O
+Temple Dr & Balsam Pl (EB),T
+Temple Dr & Balsam Pl (WB),L
+Temple Dr & Balsam Pl (WB),T
+Tulip Ln & Cascade Pl (NB),T
+Tulip Ln & Cascade Pl (SB),L
+Tulip Ln & Cascade Pl (SB),T
+Villanova Dr & Anderson Rd (EB),Q
+Villanova Dr & Reed Dr (WB),F
+Villanova Dr & Reed Dr (WB),P
+Wake Forest Dr & 1440 (Castillian) (EB),C
+Wake Forest Dr & Oxford Cir (EB),C
+West Village Sq & Community College (SB),O
+West Village Sq & Community College (SB),V
+West Village Sq & Town Square (NB),O
+West Village Sq & Town Square (NB),V
